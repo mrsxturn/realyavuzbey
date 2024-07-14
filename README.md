@@ -19,8 +19,8 @@ A simple auto clicker and macro tool developed in Python. It allows users to set
 ## Contact Me
 
 - **Instagram**: [@realyavuzbeyad](https://www.instagram.com/realyavuzbeyad)
-- **Steam**: [realyavuzbeyad](https://steamcommunity.com/id/realyavuzbeyad)
-- **Discord**: realyavuzbeyad#1234
+- **Steam**: [♆ Տ Λ Ƭ Ʋ Ʀ Ɲ ♆](https://steamcommunity.com/id/saturntheking)
+- **Discord**: @realyavuzbey
 
 ---
 
