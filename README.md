@@ -1,8 +1,9 @@
-# Mustafa Yavuz Ak (@realyavuzbeyad)
+# Welcome to README.md
+# Mustafa Yavuz Ak (@realyavuzbey)
 
 ## About Me
 
-Merhaba, ben Mustafa Yavuz Ak. İstanbul'da yaşayan bir yazılım geliştiricisiyim. **PHP ile Backend Kodlama** konusunda uzmanım ve **HTML, CSS** bilgimle web geliştirme projeleri üzerinde çalışıyorum.
+Hello, I'm Mustafa Yavuz Ak, a software developer based in Istanbul. I specialize in **Backend Development with PHP** and work on web development projects with my knowledge of **HTML and CSS**.
 
 ## Skills
 
@@ -13,7 +14,7 @@ Merhaba, ben Mustafa Yavuz Ak. İstanbul'da yaşayan bir yazılım geliştiricis
 ## Projects
 
 ### [Auto Clicker & Macro](https://github.com/realyavuzbeyad/auto-clicker-macro)
-Python ile geliştirdiğim basit bir auto clicker ve makro aracıdır. Kullanıcıların fare tıklama aralığını ayarlamasına ve özel makrolar çalıştırmasına olanak tanır.
+A simple auto clicker and macro tool developed in Python. It allows users to set the interval for mouse clicks and run custom macros.
 
 ## Contact Me
 
@@ -23,4 +24,4 @@ Python ile geliştirdiğim basit bir auto clicker ve makro aracıdır. Kullanıc
 
 ---
 
-Yeni projeler ve iş birlikleri için bana ulaşmaktan çekinmeyin!
+Feel free to reach out to me for new projects and collaborations!
