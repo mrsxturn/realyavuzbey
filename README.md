@@ -13,7 +13,7 @@ Hello, I'm Mustafa Yavuz Ak, a software developer based in Istanbul. I specializ
 
 ## Projects
 
-### [Auto Clicker & Macro](https://github.com/realyavuzbeyad/auto-clicker-macro)
+### [Pyclick](https://github.com/realyavuzbeyad/auto-clicker-macro)
 A simple auto clicker and macro tool developed in Python. It allows users to set the interval for mouse clicks and run custom macros.
 
 ## Contact Me
