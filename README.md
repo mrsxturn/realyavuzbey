@@ -87,14 +87,4 @@ Feel free to reach out for **collaboration** or **project inquiries**! I’m alw
 
 [![GitHub Issues](https://img.shields.io/badge/Create%20Issue-blue?logo=github)](https://github.com/realyavuzbey/realyavuzbey/issues)
 
----
-
-## ⚡ Fun Facts
-
-- 🛫 I’m a **licensed pilot** and aviation enthusiast! Currently, I’m working towards advancing my aviation skills, which is a thrilling journey alongside my coding projects.
-- 💼 I have a deep interest in **entrepreneurship** and **financial freedom**, and my platform, **Başarı Miladı**, reflects this passion.
-- 📚 In my free time, I love reading about **personal development**, **philosophy**, and **self-growth**. These interests deeply inspire my work and platform vision.
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yavuzbxy&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yavuzbxy&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=000000)
