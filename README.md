@@ -45,7 +45,7 @@ Here are a few notable projects that I have worked on:
 - Set and manage macros
 - Lightweight and user-friendly interface
 
-### [Başarı Miladı](https://github.com/realyavuzbey/basari-miladi)
+### [Başarı Miladı](https://basarimiladi.com)
 A personal growth and mentorship platform designed to bring users together in a competitive but supportive environment. Built with **PHP** on the backend, and featuring a dynamic user interaction system, it is designed for community-driven engagement.
 
 **Key Features:**
