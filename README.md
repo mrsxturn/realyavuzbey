@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://i.ibb.co/Qr22y28/Ba-l-ks-z-3.png)
 
-## Mustafa Yavuz Ak (@realyavuzbey)
+## Mustafa Yavuz Ak (@yavuzbxy)
 
 Hello and welcome to my GitHub profile! I’m **Mustafa Yavuz Ak**, a passionate software developer from **Istanbul**. My primary focus is on **backend development** with **PHP**, and I have a solid foundation in **web development technologies**. Let’s explore my world of coding, projects, and passions!
 
@@ -11,9 +11,6 @@ Hello and welcome to my GitHub profile! I’m **Mustafa Yavuz Ak**, a passionate
 ## 📜 About Me
 
 I have been working in software development for several years, specializing in **PHP** backend development. With a strong interest in **personal development**, I have also integrated my software skills into various projects, including my major platform: **Başarı Miladı**. I constantly strive to improve my skills and contribute to projects that push the boundaries of **innovation** and **growth**.
-
-> **Fun Fact**: I'm also a licensed **pilot** and enjoy flying in my free time! ✈️  
-> Currently, I’m continuing my journey towards mastering aviation. Balancing coding and piloting has taught me the value of precision, discipline, and growth.
 
 ---
 
