@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://i.ibb.co/Qr22y28/Ba-l-ks-z-3.png)
 
-## Mustafa Yavuz Ak (@yavuzbxy)
+## Mustafa Yavuz Ak (@yxvuzbey)
 
 Hello and welcome to my GitHub profile! I’m **Mustafa Yavuz Ak**, a passionate software developer from **Istanbul**. My primary focus is on **backend development** with **PHP**, and I have a solid foundation in **web development technologies**. Let’s explore my world of coding, projects, and passions!
 
