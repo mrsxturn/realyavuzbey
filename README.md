@@ -58,10 +58,10 @@ A lightweight **auto-clicker and macro tool** developed with **Python**. Ideal f
   [![Steam Badge](https://img.shields.io/badge/♆%20Տ%20Λ%20Ƭ%20Ʋ%20Ʀ%20Ɲ%20♆-000000?logo=steam&logoColor=white)](https://steamcommunity.com/id/saturntheking)
 
 - **Discord**:  
-  [![Discord Badge](https://img.shields.io/badge/@realyavuzbey-7289DA?logo=discord&logoColor=white)](https://discordapp.com/users/realyavuzbey)
+  [![Discord Badge](https://img.shields.io/badge/@hizlivedengesiz-7289DA?logo=discord&logoColor=white)](https://discordapp.com/users/hizlivedengesiz)
 
 - **Spotify**:  
-  [![Spotify Badge](https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/)
+  [![Spotify Badge](https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6x11UxMCht0JU1F9vvkrUG))
 
 ---
 
