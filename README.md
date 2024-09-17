@@ -8,14 +8,6 @@ Hello and welcome to my GitHub profile! I’m **Mustafa Yavuz Ak**, a passionate
 
 ---
 
-## 🌍 Available in Multiple Languages
-
-[![English](https://img.shields.io/badge/-English-blue)](https://github.com/realyavuzbey/repository)
-[![Türkçe](https://img.shields.io/badge/-Türkçe-red)](https://github.com/realyavuzbey/repository)
-[![Français](https://img.shields.io/badge/-Français-green)](https://github.com/realyavuzbey/repository)
-
----
-
 ## 📜 About Me
 
 I have been working in software development for several years, specializing in **PHP** backend development. With a strong interest in **personal development**, I have also integrated my software skills into various projects, including my major platform: **Başarı Miladı**. I constantly strive to improve my skills and contribute to projects that push the boundaries of **innovation** and **growth**.
