@@ -12,7 +12,8 @@ Hello and welcome to my GitHub profile! I’m **Mustafa Yavuz Ak**, a passionate
 
 I have been working in software development for several years, specializing in **PHP** backend development. With a strong interest in **personal development**, I have also integrated my software skills into various projects, including my major platform: **Başarı Miladı**. I constantly strive to improve my skills and contribute to projects that push the boundaries of **innovation** and **growth**.
 
-> **Fun Fact**: I'm also a licensed **pilot** and enjoy flying in my free time! ✈️
+> **Fun Fact**: I'm also a licensed **pilot** and enjoy flying in my free time! ✈️  
+> Currently, I’m continuing my journey towards mastering aviation. Balancing coding and piloting has taught me the value of precision, discipline, and growth.
 
 ---
 
@@ -40,12 +41,22 @@ A lightweight **auto-clicker and macro tool** developed with **Python**. Ideal f
 
 **Başarı Miladı** is a **personal development** and **mentorship platform** designed to help individuals achieve their goals by providing competitive games, social clubs, and a ranking system based on user engagement. This platform aims to create a space where users can grow, compete, and mentor each other, ultimately achieving both **personal** and **professional success**.
 
-**Key Features:**
+#### **Platform Domains:**
+- **basarimiladi.com**
+- **basarimiladi.xyz**
+- **basarimiladi.online**
+- **basarimiladi.com.tr**
+
+#### **Key Features:**
 - **Global Forums**: Users can join discussions on topics like entrepreneurship, self-improvement, financial freedom, and more.
 - **Real-Time Interaction**: Users can connect via text and voice chat, share screens, and join social clubs.
 - **Points & Badges**: A system to reward users based on their contributions, helping them stand out and advance in the community.
 - **Exclusive Memberships**: Offers tiers of access (Standard, Entrepreneur, Emperor) with varying features.
 - **Secure Payments**: SSL-protected transactions, ensuring safe and seamless payment processes.
+
+Başarı Miladı is more than just a platform—it is a **movement** aimed at helping people take control of their personal growth, improve their financial situation, and connect with mentors who can help them succeed. The project has multiple membership tiers and offers real-time user engagement, including voice and text chats, **global forums**, **competitive games**, and a **ranking system**.
+
+With secure SSL-protected transactions and the ability to share screens during mentoring sessions, **Başarı Miladı** provides an immersive and rewarding experience for all users.
 
 ---
 
@@ -84,9 +95,9 @@ Feel free to reach out for **collaboration** or **project inquiries**! I’m alw
 
 ## ⚡ Fun Facts
 
-- 🛫 I’m a **licensed pilot** and aviation enthusiast!
-- 💼 Interested in **entrepreneurship** and **financial freedom**.
-- 📚 I love reading about **personal development** and **philosophy**.
+- 🛫 I’m a **licensed pilot** and aviation enthusiast! Currently, I’m working towards advancing my aviation skills, which is a thrilling journey alongside my coding projects.
+- 💼 I have a deep interest in **entrepreneurship** and **financial freedom**, and my platform, **Başarı Miladı**, reflects this passion.
+- 📚 In my free time, I love reading about **personal development**, **philosophy**, and **self-growth**. These interests deeply inspire my work and platform vision.
 
 ---
 
