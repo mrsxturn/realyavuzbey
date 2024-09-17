@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👨‍💻
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Mustafa+Yavuz+Ak+%40realyavuzbey)
+![Profile Banner]([https://via.placeholder.com/1200x300.png?text=Mustafa+Yavuz+Ak+%40realyavuzbey](https://i.ibb.co/Qr22y28/Ba-l-ks-z-3.png))
 
 ## Mustafa Yavuz Ak (@realyavuzbey)
 
@@ -78,7 +78,7 @@ A lightweight **auto-clicker and macro tool** developed with **Python**. Ideal f
 
 Feel free to reach out for **collaboration** or **project inquiries**! I’m always open to discussing new opportunities.
 
-[![GitHub Issues](https://img.shields.io/badge/Create%20Issue-blue?logo=github&style=for-the-badge)](https://github.com/realyavuzbey/realyavuzbey/issues)
+[![GitHub Issues](https://img.shields.io/badge/Create%20Issue-blue?logo=github)](https://github.com/realyavuzbey/realyavuzbey/issues)
 
 ---
 
