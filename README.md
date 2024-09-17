@@ -37,7 +37,7 @@ A lightweight **auto-clicker and macro tool** developed with **Python**. Ideal f
 - Manage custom macros
 - Simple and user-friendly interface
 
-### [Başarı Miladı](https://github.com/realyavuzbey/basari-miladi)
+### Başarı Miladı
 
 **Başarı Miladı** is a **personal development** and **mentorship platform** designed to help individuals achieve their goals by providing competitive games, social clubs, and a ranking system based on user engagement. This platform aims to create a space where users can grow, compete, and mentor each other, ultimately achieving both **personal** and **professional success**.
 
@@ -63,7 +63,7 @@ With secure SSL-protected transactions and the ability to share screens during m
 ## 🎮 Where to Find Me
 
 - **Instagram**:  
-  [![Instagram Badge](https://img.shields.io/badge/@realyavuzbey-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/realyavuzbey)
+  [![Instagram Badge](https://img.shields.io/badge/@yavuzbxy-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/yavuzbxy)
 
 - **Steam**:  
   [![Steam Badge](https://img.shields.io/badge/♆%20Տ%20Λ%20Ƭ%20Ʋ%20Ʀ%20Ɲ%20♆-000000?logo=steam&logoColor=white)](https://steamcommunity.com/id/saturntheking)
@@ -80,7 +80,6 @@ With secure SSL-protected transactions and the ability to share screens during m
 
 - **Code Editor**: ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 - **Version Control**: ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-- **API Testing**: ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 - **Browser**: ![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4?logo=google-chrome&logoColor=white)
 
 ---
@@ -101,4 +100,4 @@ Feel free to reach out for **collaboration** or **project inquiries**! I’m alw
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=realyavuzbey&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yavuzbxy&show_icons=true&theme=tokyonight)
