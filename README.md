@@ -61,7 +61,7 @@ A lightweight **auto-clicker and macro tool** developed with **Python**. Ideal f
   [![Discord Badge](https://img.shields.io/badge/@hizlivedengesiz-7289DA?logo=discord&logoColor=white)](https://discordapp.com/users/hizlivedengesiz)
 
 - **Spotify**:  
-  [![Spotify Badge](https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6x11UxMCht0JU1F9vvkrUG))
+  [![Spotify Badge](https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6x11UxMCht0JU1F9vvkrUG)
 
 ---
 
