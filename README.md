@@ -1,99 +1,101 @@
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile! 👨‍💻
+
+![Profile Banner](https://via.placeholder.com/1200x300.png?text=Mustafa+Yavuz+Ak+%40realyavuzbey)
 
 ## Mustafa Yavuz Ak (@realyavuzbey)
 
-Hello and welcome to my GitHub profile! I’m **Mustafa Yavuz Ak**, a passionate software developer with a deep interest in **backend development** and **web technologies**. I'm based in the vibrant city of **Istanbul**, where I continue to enhance my skills and work on projects that reflect my passion for creating efficient, scalable solutions. I specialize in **PHP** but have a strong foundation in **frontend technologies** as well.
+Hello and welcome to my GitHub profile! I’m **Mustafa Yavuz Ak**, a passionate software developer from **Istanbul**. My primary focus is on **backend development** with **PHP**, and I have a solid foundation in **web development technologies**. Let’s explore my world of coding, projects, and passions!
 
 ---
 
-## 🚀 About Me
+## 🌍 Available in Multiple Languages
 
-I have been working as a **Backend Developer** for several years and enjoy tackling complex challenges. My journey began with learning HTML and CSS, then expanding into more sophisticated backend development using **PHP**. Alongside web development, I’ve gained experience in integrating **JavaScript** to create interactive and dynamic user interfaces.
-
-In addition to my technical skills, I value **teamwork** and **collaboration**, believing that every successful project is built on strong communication and a shared vision. Whether it’s contributing to open-source projects or leading a team, I am always eager to bring ideas to life.
+[![English](https://img.shields.io/badge/-English-blue)](https://github.com/realyavuzbey/repository)
+[![Türkçe](https://img.shields.io/badge/-Türkçe-red)](https://github.com/realyavuzbey/repository)
+[![Français](https://img.shields.io/badge/-Français-green)](https://github.com/realyavuzbey/repository)
 
 ---
 
-## 💻 Technical Skills
+## 📜 About Me
 
-I’ve built up a broad skill set through various projects and experiences. Here’s a breakdown of the key technologies and tools I use:
+I have been working in software development for several years, specializing in **PHP** backend development. With a strong interest in **personal development**, I have also integrated my software skills into various projects, including my major platform: **Başarı Miladı**. I constantly strive to improve my skills and contribute to projects that push the boundaries of **innovation** and **growth**.
 
-### **Backend Development:**
-- **PHP**: My primary language for server-side scripting and backend logic. I’ve developed numerous web applications using PHP and continue to push my boundaries in this field.
-- **MySQL**: For efficient database management and data handling, MySQL is my go-to.
-  
-### **Frontend Development:**
-- **HTML5 & CSS3**: The foundational languages I use to create responsive, well-structured, and clean web pages.
-- **JavaScript**: For adding interactivity to websites and enhancing user experience.
+> **Fun Fact**: I'm also a licensed **pilot** and enjoy flying in my free time! ✈️
 
-### **Other Tools & Technologies:**
-- **AJAX**: I use AJAX to create seamless, dynamic applications where the client and server communicate efficiently without needing full page reloads.
-- **JSON**: Preferred format for APIs and handling structured data in web applications.
-- **Git**: Version control system that I rely on for maintaining my codebases.
-  
 ---
 
-## 📂 Projects
+## 🛠 Skills & Technologies
 
-Here are a few notable projects that I have worked on:
+- **Backend Development**: ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
+- **Frontend Development**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
+- **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+- **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+- **Other Tools**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white) ![AJAX](https://img.shields.io/badge/-AJAX-00599C?logo=ajax&logoColor=white)
+
+---
+
+## 🚀 Key Projects
 
 ### [Pyclick](https://github.com/realyavuzbeyad/auto-clicker-macro)
-**Pyclick** is an auto-clicker and macro tool developed using Python. It’s designed for users who need an automated solution for mouse clicking tasks. The tool allows users to customize the clicking interval and set macros for complex tasks, making it ideal for gamers or users looking to automate repetitive tasks.
+A lightweight **auto-clicker and macro tool** developed with **Python**. Ideal for automating repetitive tasks and setting custom macros.
+
+**Features:**
+- Set interval for clicks
+- Manage custom macros
+- Simple and user-friendly interface
+
+### [Başarı Miladı](https://github.com/realyavuzbey/basari-miladi)
+
+**Başarı Miladı** is a **personal development** and **mentorship platform** designed to help individuals achieve their goals by providing competitive games, social clubs, and a ranking system based on user engagement. This platform aims to create a space where users can grow, compete, and mentor each other, ultimately achieving both **personal** and **professional success**.
 
 **Key Features:**
-- Customize click intervals
-- Set and manage macros
-- Lightweight and user-friendly interface
-
-### [Başarı Miladı](https://basarimiladi.com)
-A personal growth and mentorship platform designed to bring users together in a competitive but supportive environment. Built with **PHP** on the backend, and featuring a dynamic user interaction system, it is designed for community-driven engagement.
-
-**Key Features:**
-- Mentorship and global chat functionalities
-- Real-time data with WebSockets integration
-- Competitive forums with points and badges system
-  
----
-
-## 🔗 Social Links & Contact
-
-You can find me on various platforms. Feel free to connect, collaborate, or follow my work!
-
-- **Instagram**: [@realyavuzbey](https://www.instagram.com/realyavuzbey)  
-  Catch a glimpse of my day-to-day life and projects I'm working on.
-  
-- **Steam**: [♆ Տ Λ Ƭ Ʋ Ʀ Ɲ ♆](https://steamcommunity.com/id/saturntheking)  
-  I'm an avid gamer and enjoy spending my downtime playing games. Feel free to add me on Steam!
-
-- **Discord**: @realyavuzbey  
-  Let’s connect on Discord for project discussions, brainstorming sessions, or just casual conversations.
-
-- **Spotify**: [Listen Here](https://open.spotify.com/)  
-  Check out my playlists for productivity, coding, and relaxation.
+- **Global Forums**: Users can join discussions on topics like entrepreneurship, self-improvement, financial freedom, and more.
+- **Real-Time Interaction**: Users can connect via text and voice chat, share screens, and join social clubs.
+- **Points & Badges**: A system to reward users based on their contributions, helping them stand out and advance in the community.
+- **Exclusive Memberships**: Offers tiers of access (Standard, Entrepreneur, Emperor) with varying features.
+- **Secure Payments**: SSL-protected transactions, ensuring safe and seamless payment processes.
 
 ---
 
-## 🛠 My Workflow & Tools
+## 🎮 Where to Find Me
 
-My typical workflow includes:
+- **Instagram**:  
+  [![Instagram Badge](https://img.shields.io/badge/@realyavuzbey-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/realyavuzbey)
 
-- **VS Code**: My code editor of choice due to its flexibility and powerful extensions.
-- **GitHub**: I use GitHub for version control and collaboration on all my projects.
-- **Chrome Developer Tools**: An essential part of my debugging and frontend performance optimization process.
-- **Postman**: For API testing and development.
+- **Steam**:  
+  [![Steam Badge](https://img.shields.io/badge/♆%20Տ%20Λ%20Ƭ%20Ʋ%20Ʀ%20Ɲ%20♆-000000?logo=steam&logoColor=white)](https://steamcommunity.com/id/saturntheking)
 
----
+- **Discord**:  
+  [![Discord Badge](https://img.shields.io/badge/@realyavuzbey-7289DA?logo=discord&logoColor=white)](https://discordapp.com/users/realyavuzbey)
 
-## 🌟 Fun Facts
-
-- **Languages**: Fluent in Turkish and English.
-- **Hobbies**: When I’m not coding, you’ll likely find me either **flying planes** (I’m a licensed pilot!) or **playing strategy games**.
-- **Reading**: I’m an avid reader on topics related to personal development, **Red Pill** philosophy, and entrepreneurship.
+- **Spotify**:  
+  [![Spotify Badge](https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/)
 
 ---
 
-## 📫 How to Reach Me
+## ⚡ Tools & Workflow
 
-I’m always open to discussing new projects, freelance opportunities, or collaborations. You can reach out to me through the platforms mentioned above, or feel free to send me a message via **[GitHub Issues](https://github.com/realyavuzbey/realyavuzbey/issues)**.
+- **Code Editor**: ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+- **Version Control**: ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+- **API Testing**: ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+- **Browser**: ![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4?logo=google-chrome&logoColor=white)
 
-Let’s build something great together!
+---
+
+## 📫 How to Contact Me
+
+Feel free to reach out for **collaboration** or **project inquiries**! I’m always open to discussing new opportunities.
+
+[![GitHub Issues](https://img.shields.io/badge/Create%20Issue-blue?logo=github&style=for-the-badge)](https://github.com/realyavuzbey/realyavuzbey/issues)
+
+---
+
+## ⚡ Fun Facts
+
+- 🛫 I’m a **licensed pilot** and aviation enthusiast!
+- 💼 Interested in **entrepreneurship** and **financial freedom**.
+- 📚 I love reading about **personal development** and **philosophy**.
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=realyavuzbey&show_icons=true&theme=tokyonight)
