@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👨‍💻
 
-![Profile Banner]([https://via.placeholder.com/1200x300.png?text=Mustafa+Yavuz+Ak+%40realyavuzbey](https://i.ibb.co/Qr22y28/Ba-l-ks-z-3.png))
+![Profile Banner]([https://i.ibb.co/Qr22y28/Ba-l-ks-z-3.png](https://i.ibb.co/Qr22y28/Ba-l-ks-z-3.png))
 
 ## Mustafa Yavuz Ak (@realyavuzbey)
 
