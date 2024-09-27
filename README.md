@@ -87,4 +87,4 @@ Feel free to reach out for **collaboration** or **project inquiries**! I’m alw
 
 [![GitHub Issues](https://img.shields.io/badge/Create%20Issue-blue?logo=github)](https://github.com/realyavuzbey/realyavuzbey/issues)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yavuzbxy&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=realyavuzbey&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=000000)
