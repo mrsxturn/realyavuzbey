@@ -22,6 +22,13 @@ I have been working in software development for several years, specializing in *
 
 ---
 
+## 🔮 Future Goals
+
+- **Learning**: Diving into **Laravel** and **Docker** for more scalable backend solutions.
+- **Upcoming Projects**: Developing a **self-improvement mobile app** integrating **AI** and **machine learning**.
+
+---
+
 ## 🚀 Key Projects
 
 ### [Pyclick](https://github.com/realyavuzbeyad/auto-clicker-macro)
