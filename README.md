@@ -58,7 +58,7 @@ With secure SSL-protected transactions and the ability to share screens during m
 ## 🎮 Where to Find Me
 
 - **Instagram**:  
-  [![Instagram Badge](https://img.shields.io/badge/@yavuzbxy-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/yavuzbxy)
+  [![Instagram Badge](https://img.shields.io/badge/@realyavuzbey-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/realyavuzbey)
 
 - **Steam**:  
   [![Steam Badge](https://img.shields.io/badge/♆%20Տ%20Λ%20Ƭ%20Ʋ%20Ʀ%20Ɲ%20♆-000000?logo=steam&logoColor=white)](https://steamcommunity.com/id/saturntheking)
