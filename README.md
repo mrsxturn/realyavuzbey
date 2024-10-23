@@ -7,4 +7,4 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yavuzthedracula&show_icons=true&icon_color=ff0051&theme=dark&bg_color=000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yavuzthedracula&show_icons=true&icon_color=ff0051&theme=dark&bg_color=000000&text_color=ffffff)
