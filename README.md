@@ -2,7 +2,6 @@
 
 - **Instagram**: [@realyavuzbey](https://www.instagram.com/realyavuzbey)  
 - **Steam**: [♆ Տ Λ Ƭ Ʋ Ʀ Ɲ ♆](https://steamcommunity.com/id/saturntheking)  
-- **Discord**: [@hizlivedengesiz](https://discordapp.com/users/hizlivedengesiz)  
 - **Spotify**: [Listen on Spotify](https://open.spotify.com/playlist/6x11UxMCht0JU1F9vvkrUG)
 
 ---
