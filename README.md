@@ -1,7 +1,6 @@
 𝐒 𝐎 𝐂 𝐈 𝐀 𝐋
 
 - **Instagram**: [@realyavuzbey](https://www.instagram.com/realyavuzbey)  
-- **Steam**: [♆ Տ Λ Ƭ Ʋ Ʀ Ɲ ♆](https://steamcommunity.com/id/saturntheking)  
 - **Spotify**: [Listen on Spotify](https://open.spotify.com/playlist/6x11UxMCht0JU1F9vvkrUG)
 
 ---
