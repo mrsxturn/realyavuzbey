@@ -1,4 +1,4 @@
-・ 𝐒 𝐎 𝐂 𝐈 𝐀 𝐋
+𝐒 𝐎 𝐂 𝐈 𝐀 𝐋
 
 - **Instagram**: [@realyavuzbey](https://www.instagram.com/realyavuzbey)  
 - **Steam**: [♆ Տ Λ Ƭ Ʋ Ʀ Ɲ ♆](https://steamcommunity.com/id/saturntheking)  
