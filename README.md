@@ -1,6 +1,6 @@
 <h1>𝐒 𝐎 𝐂 𝐈 𝐀 𝐋</h1>
 
-- **Instagram**: [@realyavuzbey](https://www.instagram.com/realyavuzbey)  
+- **Instagram**: [@yavuzthedracula](https://www.instagram.com/yavuzthedracula)  
 - **Spotify**: [Listen on Spotify](https://open.spotify.com/playlist/6x11UxMCht0JU1F9vvkrUG)
 
 <hr>
