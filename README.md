@@ -1,7 +1,7 @@
 <h1>𝐒 𝐎 𝐂 𝐈 𝐀 𝐋</h1>
 
 - **Instagram**: [@yavuzthedracula](https://www.instagram.com/yavuzthedracula)  
-- **Spotify**: [Listen on Spotify](https://open.spotify.com/playlist/6x11UxMCht0JU1F9vvkrUG)
+- **Spotify**: [! Yavuz Bey  有罪](https://open.spotify.com/playlist/6x11UxMCht0JU1F9vvkrUG)
 
 <hr>
 
