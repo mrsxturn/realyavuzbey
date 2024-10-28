@@ -5,6 +5,6 @@
 
 <hr>
 
-<h3>Bu hayata 1 kere gelirsin, 1000 kere sorgularsın herşeyi. Seni terkedip giden sevdalını bile.</h3>
+<h3>Bu hayatta 1 kere yaşarsın o sevdayı, sonra 1000 kere sorgularsın, ardından birdaha konuşamayacak kadar susarsın.</h3>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yavuzthedracula&show_icons=true&icon_color=ff0051&theme=dark&bg_color=000&border_color=aeaeae)
