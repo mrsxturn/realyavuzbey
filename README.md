@@ -5,7 +5,7 @@
 
 <hr>
 
-<h3><i>Bu hayatta 1 kere yaşarsın o sevdayı, sonra 1000 kere sorgularsın, ardından birdaha konuşamayacak kadar susarsın... </i>🥀</h3>
+<h3><i>Bu hayatta 1 kere yaşarsın o sevdayı, sonra 1000 kere sorgularsın, ardından birdaha konuşamayacak olur susarsın... </i>🥀</h3>
 
 <hr>
 
