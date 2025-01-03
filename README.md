@@ -1,1 +1,1 @@
-![Yavuz Bey'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=seninkullaniciadi&show_icons=true&hide_border=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000)
+![Yavuz Bey'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=yavuzvip&show_icons=true&hide_border=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000)
