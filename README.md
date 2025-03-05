@@ -1,3 +1,5 @@
+[i]Die without trying, I know my eyes are open since this car got owned by me. No one can understand this man...
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zzykeijuuo3t2kpl6grmgo6gy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff00ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=zzykeijuuo3t2kpl6grmgo6gy&redirect=true)
 
 
