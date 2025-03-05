@@ -1,4 +1,4 @@
-<i>Die without trying, I know my eyes are open since this car got owned by me. No one can understand this man...</i>
+<h1>If you have over 100 IQ, do not read this sh*t.</h1>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zzykeijuuo3t2kpl6grmgo6gy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff00ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=zzykeijuuo3t2kpl6grmgo6gy&redirect=true)
 
