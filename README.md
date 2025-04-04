@@ -1,6 +1,3 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zzykeijuuo3t2kpl6grmgo6gy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff00ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=zzykeijuuo3t2kpl6grmgo6gy&redirect=true)
-
-
 <h1 align="center">Welcome, To Yavuz Bey's International Junkyard!</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -25,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realyavuzbey&show_icons=true&locale=en&layout=compact" alt="realyavuzbey" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=realyavuzbey&show_icons=true&locale=en" alt="realyavuzbey" /></p>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zzykeijuuo3t2kpl6grmgo6gy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff00ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=zzykeijuuo3t2kpl6grmgo6gy&redirect=true)
