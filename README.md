@@ -9,7 +9,7 @@
 
 - I’m Currently Working On [Vigilante OSINT Suite](https://github.com/realyavuzbey/vigilante)
 
-- How To Reach Me **Write Me On Insta**
+- How To Reach Me **Instagram**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
