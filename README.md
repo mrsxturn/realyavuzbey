@@ -22,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realyavuzbey&show_icons=true&locale=en&layout=compact&theme=dark&title_color=ff0051&text_color=ffffff&icon_color=ff0051&bg_color=00000000" alt="Top Langs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=realyavuzbey&show_icons=true&locale=en&theme=dark&title_color=ff0051&text_color=ffffff&icon_color=ff0051&bg_color=00000000" alt="GitHub Stats" /></p>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zzykeijuuo3t2kpl6grmgo6gy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff00ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=zzykeijuuo3t2kpl6grmgo6gy&redirect=true)
