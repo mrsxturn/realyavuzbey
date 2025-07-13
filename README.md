@@ -1,14 +1,5 @@
 <h3 align="left">Welcome to MrSxturn's Playground.</h3>
-<p align="left">
-  Been slingin’ code since the MySpace era. I keep Flask on the stove for the
-  backend heat, MySQL in the pantry for airtight data storage, and when things
-  get gritty I bust out pure Vanilla PHP—no training wheels, no apologies.
-</p>
-<p align="left">
-  Pull requests? Slide ’em in. Bugs? I squash those on sight. I’m always
-  shipping, always tweaking, always leveling up. Stick around if you want to see
-  how it’s really done.
-</p>
+<p align="left">Still grindin’ code like it's 2010. I rock Flask for the backend hustle, MySQL to keep the data tight, and I ain't afraid to get my hands dirty with raw Vanilla PHP when shit needs to get real.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsxturn&label=Profile%20views&color=0e75b6&style=flat" alt="mrsxturn" /> </p>
 
