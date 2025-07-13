@@ -1,7 +1,4 @@
-<h3 align="left">Welcome to MrSxturn's Playground.</h3>
-<p align="left">Still grindin’ code like it's 2010. I rock Flask for the backend hustle, MySQL to keep the data tight, and I ain't afraid to get my hands dirty with raw Vanilla PHP when shit needs to get real.</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsxturn&label=Profile%20views&color=0e75b6&style=flat" alt="mrsxturn" /> </p>
+<h2 align="left">Welcome to MrSxturn's Playground.</h2>
 
 <h3 align="left">Badges</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrsxturn" alt="mrsxturn" /></a> </p>
