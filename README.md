@@ -1,6 +1,6 @@
 <h3 align="center">About Me</h3>
 <p align="center">
-  My name is Yavuz. I am a Full-Stack Developer and Entrepreneur based in Türkiye.<br />
+  My name is Yavuz. I am a Full-Stack Developer and Entrepreneur based in Turkiye.<br />
   I work mostly with Python, especially Flask, and I enjoy building clean, functional systems with SQLAlchemy and other backend tools.<br />
   If you're out there building something meaningful, good luck to you. Keep going.
 </p>
