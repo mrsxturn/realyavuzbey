@@ -35,6 +35,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 </div>
+
+<h3 align="center">License</h3>
+<p align="center">
+  <a href="https://github.com/mrsxturn/mrsxturn/blob/main/LICENSE.md" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/static/v1?label=My%20License&message=MrSxturn&color=ff0051&style=flat&logo=shield&logoColor=white" alt="MrSxturn License Badge" />
+  </a>
+</p>
+
 <h3 align="center">Stay Connected</h3>
 <div align="center">
   <a href="https://twitter.com/mrsxturn" target="blank">
