@@ -37,16 +37,6 @@
   </a>
 </div>
 
-<h3 align="center">GitHub Stats</h3>
-<p align="center">Here are my current GitHub stats, including the languages I use most across my projects.</p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrsxturn&show_icons=true&locale=en&theme=dark&title_color=ff0051&text_color=ffffff&icon_color=ff0051&bg_color=00000000" alt="GitHub Stats" />
-</div>
-<br />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsxturn&show_icons=true&locale=en&layout=compact&theme=dark&title_color=ff0051&text_color=ffffff&icon_color=ff0051&bg_color=00000000" alt="Top Languages" />
-</div>
-
 <h3 align="center">Stay Connected</h3>
 <div align="center">
   <a href="https://twitter.com/mrsxturn" target="blank">
