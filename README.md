@@ -46,7 +46,7 @@
 
 <h3 align="center">Favorite Song</h3>
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=e2Ld4bY2_-A" target="_blank" rel="noreferrer">
+  <a href="https://www.youtube.com/watch?v=2C0OEVWKZv0" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Watch%20Now-Kasabian%20%E2%80%94%20Shoot%20the%20Runner-2D9734?style=flat&logo=YouTube&logoColor=white" alt="Favorite Song Badge" />
   </a>
 </p>
