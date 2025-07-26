@@ -4,7 +4,6 @@
   I work mostly with Python, especially Flask, and I enjoy building clean, functional systems with SQLAlchemy and other backend tools.<br />
   If you're out there building something meaningful, good luck to you. Keep going.
 </p>
-
 <h3 align="center">My Interests</h3>
 <p align="center">Some of the tools, languages, and technologies I've explored or actively use.</p>
 <div align="center">
@@ -36,7 +35,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 </div>
-
 <h3 align="center">Stay Connected</h3>
 <div align="center">
   <a href="https://twitter.com/mrsxturn" target="blank">
