@@ -37,7 +37,7 @@
   </a>
 </div>
 
-<h3 align="center">License</h3>
+<h3 align="center">My License</h3>
 <p align="center">
   <a href="https://github.com/mrsxturn/mrsxturn/blob/main/LICENSE.md" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/static/v1?label=My%20License&message=MrSxturn&color=ff0051&style=flat&logo=shield&logoColor=white" alt="MrSxturn License Badge" />
