@@ -1,11 +1,11 @@
 <h3 align="center">About Me</h3>
 <p align="center">
   My name is Yavuz. I am a Full-Stack Developer and Entrepreneur based in Turkiye.<br />
-  I work mostly with Python, especially Flask, and I enjoy building clean, functional systems with SQLAlchemy and other backend tools.<br />
+  I work mostly with Python Flask and I chillin' when I make functional systems with SQLAlchemy and other backend tools.<br />
   If you're out there building something meaningful, good luck to you.
 </p>
 <h3 align="center">My Interests</h3>
-<p align="center">Stuff I use to build things (and sometimes break them).</p>
+<p align="center">Stuff I use to build.</p>
 <div align="center">
   <p align="center">
     <img src="https://skillicons.dev/icons?i=python,flask,git,linux,mysql,php,html,css,cs" />
