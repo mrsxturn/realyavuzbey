@@ -12,7 +12,7 @@
   </p>
 </div>
 
-<h3 align="center">My Playlist (Last Call Of Vigilante)</h3>
+<h3 align="center">My Playlist</h3>
 <p align="center">
   <a href="https://open.spotify.com/playlist/7bGhkUkajyZTneyOBcKXmU?si=5155f384f4e94068" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-Open%20Playlist-1DB954?style=flat&logo=spotify&logoColor=white" />
